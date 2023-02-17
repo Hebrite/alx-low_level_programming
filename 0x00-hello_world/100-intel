@@ -1,2 +1,2 @@
-ash
+#!/bin/bash
 masm=intel $CFILE
